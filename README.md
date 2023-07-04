@@ -2,7 +2,8 @@
 电报助手
 
 # 注意
-你必须关注 [Re: Fantasy City](https://t.me/ReFantasyCity) 频道才能正常运行该模块，黑名单用户无法使用该模块
+- 仅支持未混淆、未修改 Telegram 官方开源方法的官方版本和第三方
+- 你必须关注 [Re: Fantasy City](https://t.me/ReFantasyCity) 频道才能正常运行该模块，黑名单用户无法使用该模块
 
 ---
 
